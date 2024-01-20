@@ -3,6 +3,7 @@
 # Windows版のエアーギャップ作成方法を最新版に更新 #
 ## 2024年01月20日作成
 ## 説明
+### Windows11 HOME ###
 ### VirtualBox 7.0.12
 ### Ubutnu 20.04.06 LTS
 Windowsのエアーギャップ最新版を更新しました。
